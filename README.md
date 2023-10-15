@@ -171,7 +171,7 @@ All the translations for this repo will be listed below:
 - 📜 [JavaScript map vs. forEach: When to Use Each One - Sajal Soni](https://code.tutsplus.com/tutorials/javascript-map-vs-foreach-when-to-use-each-one--cms-38365)
 
 ### Videos
-
+- 🎥 [JavaScript - Variables in js/ Types - Telusco](https://www.youtube.com/watch?v=TOkU5HxES1o&list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4&index=4&pp=iAQB) 
 - 🎥 [Javascript Pass by Value vs Pass by Reference — techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
 - 🎥 [JavaScript Value vs Reference Types — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
 - 🎥 [VALORES vs REFERENCIAS en JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=AvkyOrWkuQc)
